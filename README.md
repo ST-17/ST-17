@@ -2,16 +2,6 @@
 
 ###
 
-<div align="center">
-<h3> 👨🏻‍🎓 Samat Tlepbergen | 💻 Frontend Developer | ⛰ Almaty , KZ </h3>
-</div>
-
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
-
 ## 🛠️ Technologies and Tools I use:
 
 <div align="left" style="margin-bottom: 5px;">
