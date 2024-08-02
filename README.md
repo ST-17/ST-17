@@ -1,5 +1,3 @@
-<h1 align="center" id="macropower-title">Hello world! :wave: I'm Samat</h1>
-
 ## 🛠️ Technologies and Tools I use:
 
 <div align="left" style="margin-bottom: 5px;">
